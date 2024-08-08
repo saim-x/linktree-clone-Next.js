@@ -1,0 +1,33 @@
+{
+    "name": "Muhammad Saim",
+    "avatar": "https://www.w3schools.com/howto/img_avatar.png",
+    "links": [
+        {
+            "title": "My Personal Portfolio",
+            "url": "https://saimfolio.vercel.app",
+            "image": "https://www.w3schools.com/howto/img_avatar.png"
+        },
+        {
+            "title": "Vercel website",
+            "url": "https://vercel.com",
+            "image": "https://www.w3schools.com/howto/img_avatar.png"
+
+        }
+        
+    ],
+    "socials": [
+        {
+            "title": "Twitter",
+            "url": "https://www.x.com"
+        },
+        {
+            "title": "Github",
+            "url": "https://www.github.com"
+        },
+        {
+            "title": "Facebook",
+            "url": "https://www.facebook.com"
+        }
+    ]
+
+}
