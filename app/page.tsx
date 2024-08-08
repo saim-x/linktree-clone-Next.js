@@ -27,7 +27,7 @@ function LinkCard({
             height={40}
           />
         )}
-        <h2 className="font-semibold w-full text-center ">{title}</h2>
+        <h2 className="font-semibold w-full text-center text-white">{title}</h2>
       </div>
     </a>
   );
@@ -35,7 +35,7 @@ function LinkCard({
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-center mx-auto w-full mt-16 px-8">
+    <div className="flex flex-col items-center justify-center mx-auto w-full mt-16 px-8 ">
       <Image
         className="rounded-full  "
         src={data.avatar}
@@ -43,7 +43,7 @@ export default function Home() {
         width={96}
         height={96}
       />
-      <h1 className="font-bold mt-4 mb-8 text-xl">{data.name}</h1>
+      <h1 className="font-bold mt-4 mb-8 text-xl text-white">{data.name}</h1>
       {data.links.map((link) => (
         <LinkCard key={link.href} {...link} />
       ))}
