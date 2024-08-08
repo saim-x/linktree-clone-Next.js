@@ -11,6 +11,11 @@
             "title": "My Vercel Website",
             "href": "https://vercel.com",
             "image": ""
+        },
+        {
+            "title": "Next.js",
+            "href": "https://nextjs.org",
+            "image": ""
         }
     ],
     "socials": [
@@ -19,7 +24,7 @@
             "href": "https://www.x.com"
         },
         {
-            "title": "Github",
+            "title": "GitHub",
             "href": "https://www.github.com"
         },
         {
