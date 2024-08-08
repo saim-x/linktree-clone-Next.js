@@ -1,33 +1,30 @@
 {
     "name": "Muhammad Saim",
-    "avatar": "https://www.w3schools.com/howto/img_avatar.png",
+    "avatar": "https://saimfolio.vercel.app/assets/p2.png",
     "links": [
         {
             "title": "My Personal Portfolio",
-            "url": "https://saimfolio.vercel.app",
-            "image": "https://www.w3schools.com/howto/img_avatar.png"
+            "href": "https://saimfolio.vercel.app",
+            "image": "https://images.pexels.com/photos/6608038/pexels-photo-6608038.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         },
         {
-            "title": "Vercel website",
-            "url": "https://vercel.com",
-            "image": "https://www.w3schools.com/howto/img_avatar.png"
-
+            "title": "My Vercel Website",
+            "href": "https://vercel.com",
+            "image": ""
         }
-        
     ],
     "socials": [
         {
             "title": "Twitter",
-            "url": "https://www.x.com"
+            "href": "https://www.x.com"
         },
         {
             "title": "Github",
-            "url": "https://www.github.com"
+            "href": "https://www.github.com"
         },
         {
             "title": "Facebook",
-            "url": "https://www.facebook.com"
+            "href": "https://www.facebook.com"
         }
     ]
-
 }
