@@ -15,7 +15,7 @@ function LinkCard({
       href={href}
       target="_blank"
       rel="noopener noreferrer"
-      className="flex items-center justify-between p-1 w-full rounded-md hover:scale-105 transition-all border border-gray-300 mb-3 bg-gray-200"
+      className="flex items-center justify-between p-1 w-full rounded-md hover:scale-105 transition-all border border-gray-300 mb-3"
     >
       <div className="flex text-center">
         {image && (
